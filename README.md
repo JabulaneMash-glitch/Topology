@@ -1,3 +1,4 @@
+<img width="1091" height="581" alt="topology_cisco" src="https://github.com/user-attachments/assets/703512df-60b0-4b37-98a8-31b5e45a1563" />
 🌐 Enterprise Network Design — Hybrid Ring-Star Topology
 
 A complete office network design and Cisco Packet Tracer simulation for a business relocating into a new single-story facility (~100m × 50m), covering topology design, IP addressing, routing, security segmentation, and budgeting.
